@@ -1,21 +1,21 @@
 export const menuArray = [
     {
         name: "Pizza",
-        ingredients: ["pepperoni", "mushrom", "mozarella"],
+        ingredients: ["pepperoni", "champiñon", "mozarella"],
         id: 0,
         price: 14,
         emoji: "🍕"
     },
     {
-        name: "Hamburger",
-        ingredients: ["beef", "cheese", "lettuce"],
+        name: "Hamburguesa",
+        ingredients: ["carne", "mozarella", "lechuga"],
         price: 12,
         emoji: "🍔",
         id: 1
     },
         {
-        name: "Beer",
-        ingredients: ["grain, hops, yeast, water"],
+        name: "Cervezxxa",
+        ingredients: ["100%, alcohol, a la, vena"],
         price: 12,
         emoji: "🍺",
         id: 2
